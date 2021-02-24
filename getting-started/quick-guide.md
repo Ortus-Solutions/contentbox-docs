@@ -299,7 +299,7 @@ You can also choose publishing schema \[scroll up, topright corner side bar\] fo
 
 ## Look and Feel
 
-\[look & Feel + Layouts\] Now, Look and Feel are obviously very important. 0So you have our layouts section. As you can see some of our sections are tide to forgebox \[ForgeBox upper right corner\].
+\[look & Feel + Layouts\] Now, Look and Feel are obviously very important. 0So you have our layouts section. As you can see some of our sections are tied to forgebox \[ForgeBox upper right corner\].
 
 Again this is administration permission, but you can actually talk into ForgeBox \[click ForgeBox\] so you can connect to ForgeBox. It will bring you all the different setups available that you can install immediately. If you download a layout for example, you can then go to your Manage Layouts
 
