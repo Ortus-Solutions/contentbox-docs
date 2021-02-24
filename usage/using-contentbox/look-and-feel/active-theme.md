@@ -1,10 +1,10 @@
 # Active Theme
 
-When installing a CMS, one of the first steps you would normally take, is install a theme. We wanted to give you a head-start and give you a theme that gives you plenty of options to customize your site, colors, social media icons, and even a hero style homepage. In ContentBox 3.1 we even updated Themes to have better documentation, so it's easier to get started with your theme. Let's see what the default theme can do for you.
+When installing a CMS, one of the first steps you'll likely take is to install a theme. We wanted to give you a head start and give you a theme that gives you plenty of options to customize your site, colors, social media icons, and even a hero style homepage. In ContentBox 3.1 we even updated Themes to have better documentation, so it's easier to get started with your theme. Let's see what the default theme can do for you.
 
 ## Theme Settings
 
-Theme settings is where all of your configuration happens. In ContentBox 3 we added a lot of functionality to make the Theme Settings easier to work with, for Devs and Users. The first you will see if the groupings of settings. This allows a User to focus on one set of settings at a time. With a complex theme, having all of the settings visible at once can be very overwhelming.
+Theme settings is where all of your configuration happens. In ContentBox 3 we added a lot of functionality to make the Theme Settings easier to work with, for Devs and Users. The first you will see is the groupings of settings. This allows a User to focus on one set of settings at a time. With a complex theme, having all of the settings visible at once can be very overwhelming.
 
 ## Default Theme Settings
 
@@ -40,7 +40,7 @@ You can choose whether you would like to use Text for your Logo, like the screen
 
 **Show Search form field in Header.**
 
-Not a fan of the large search box, change your selection here to hide it.
+If you are not a fan of the large search box, you can disable it with this setting.
 
 ![](../../../.gitbook/assets/cb_theme_header.JPG)
 
@@ -74,5 +74,5 @@ Turn them off, and hey presto, no more side bar mini widgets.
 
 ![](../../../.gitbook/assets/cb_theme_blogsidebar_off.JPG)
 
-This is just the default theme. We have many more, and others are being developed, and can be shared easily through Forgebox.
+This is just the default theme. There are many more [themes on ForgeBox](https://forgebox.io/type/contentbox-themes) and new ones being added all the time.
 
